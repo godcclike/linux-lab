@@ -10,3 +10,4 @@
 | `curl -o <filename> localhost:<portnumber>` | to download webpage as a file |
 | `curl -I localhost:<portnumber>` | to see request header |
 | `curl -v localhost:<portnumber>` | to see request and response header |
+| `wget localhost:<portnumber>` | to download website as index.html |
